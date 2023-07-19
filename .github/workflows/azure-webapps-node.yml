@@ -76,3 +76,4 @@ jobs:
         app-name: ${{ env.AZURE_WEBAPP_NAME }}
         publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
         package: ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+s[![.github/workflows/azure-webapps-node.yml](https://github.com/Vanessadsanchez/ud989-cat-clicker-ko-starter/actions/workflows/azure-webapps-node.yml/badge.svg?branch=master&event=check_suite)](https://github.com/Vanessadsanchez/ud989-cat-clicker-ko-starter/actions/workflows/azure-webapps-node.yml)
